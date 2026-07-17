@@ -1,0 +1,59 @@
+I analyzed the 10-K reports of Apple and NVIDIA. 
+
+What kinds of language appear in the Risk Factors that you would not see in MD&A?
+ - I noticed that Risk Factors use more negative and conditional language. Both NVIDIA and Apple use words like "may", "could", "cannot ensure", "may not be able to", or
+"materially adversely affect". Apple mentions that its list is "not exhaustive" while NVIDIA warns that risks it does not know about yet, or currently considers unimportant,
+may still harm the company. 
+
+- This section often focuses on the failure of companies. For example, Apple explains that insurance may not cover every loss, cybersecurity systems cannot provide absolute
+protection, hedging may not fully offset currency losses, and suppliers may violate its standards despite its requirements. 
+
+ - Additionally, NVIDIA similarly states that design wins do not guarantee revenue, suppliers may fail to provide enough capacity, products may contain defects, and 
+investments may never generate sufficient returns 
+
+ - Risk Factors also describes outcomes that may be severe. This includes product bans, market withdrawal, data breaches, supply interactions, litigation, fines, product recalls
+loss of intellectual-property rights, lower margins, and declines in stock price. Such outcomes may never occur, but these companies include them so investors are aware. 
+
+ - MD&A is more focused on what actually happened and why. Its common language includes "increased", "compared with", "primarily due to", and "partially offset by". This section
+includes tables, percentages, dollar amounts, and explanations of performance. MD&A still addresses uncertainty, but usually connects it to a measured result, a specific event, 
+an accounting estimate, or a management decision. 
+
+ - Overall, a better way to think about each of these sections is how Item 1A explains what could go wrong and how serious the consequences might be, while MD&A explains 
+what happened financially, why it happened, and how management interprets the results. 
+
+  
+What patterns do you notice in how risks are described?
+ - The most consistent pattern I noticed was the following: 
+   what the company depends on, followed by what went wrong, followed by how the business is disrupted, followed by how the company loses money or trust 
+
+ - An example of this is Apple's tarrif discussion. Tariffs or trade restrictions could make components and raw materials more expensive or harder to obtain. Apple then might
+need to change suppliers, restructure operations, stop selling affected products or applications, or increase prices. Those changes can reduce demand, disrupt production, 
+and lower margins. 
+
+ - When discussing supply or demand, NVIDIA uses the same structure. Since semiconductor manufacturing has long lead times, NVIDIA has to make supply commitments before knowing
+exact future demand. If it overestimates demand, it may hold excess inventory, pay cancellation penalties, lower prices, or record write-downs. 
+
+ - Another pattern is how both companies use past problems to explain future risks. NVIDIA often says that something "has" happened before and "may" happen again. It mentions
+past supply and demand problems, low yield Blackwell materials, product defects, export restrictions, and changes in demand caused by cryptocurrency. Apple also points out 
+to real service outages, supplier violations, cyberattacks, legal disputes, and the effects of past pandemics. These examples make the risks seem more real and less like 
+general legal warnings because similar problems have already happened before. 
+
+ - Furthermore, both companies describe the safeguards and then explain their limitations. For instance, Apple uses insurance, encryption, multifactor authentication, supplier rules, patents,
+and currency hedges. However, they understand that none of these provide complete protection. NVIDIA invests in cybersecurity, manufacturing capacity, compliance, product quality,
+and domestic production. They also cannot guarantee that suppliers will perform, vulnerabilities will be detected, or investments will succeed. 
+
+ - Lastly, I noticed that business strengths can become risks. Apple has a valuable ecosystem, but it depends on continuous innovation, third-party developers, content providers
+intellectual property protection, and government approval to run its platforms the way it wants. NVIDIA releases new products very quickly, which helps it stay ahead in 
+AI, but it also makes it harder to switch between products, predict demand, manage inventory, and maintain quality. 
+
+
+What surprised you?
+ - Before reading the 10-K files, I thought the Risk Factors section would mostly be general legal warnings. What surprised me was how many of those risks appeared later
+in the companies' financial results directly. 
+
+ - An example of this is how Apple warned that tariffs could increase costs and reduce gross margins, and its MD&A report later reported that tariff costs lowered the 
+product gross margin in 2025. Another example is how NVIDIA's Risk Factors section discussed export controls reducing demand and creating excess inventory, and its 
+MD&A later reported a $4.5 billion charge related to H20 inventory and purchase commitments after new U.S. export restrictions. 
+
+Overall, reading both sections from Apple and NVIDIA changed my perspective on Risk Factors. They are not simply lists of unlikely problems, but they highlight the
+company's biggest vulnerabilities, while the MD&A shows which of those risks actually affected financial performance and by how much. 
